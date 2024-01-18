@@ -6,6 +6,7 @@
 <br>
 <figcaption><i>Fig.1 - U2Net Architecture</i></figcaption>
 </div>
+<br>
 
 * **U2-Net** is a two-level nested U-structure architecture. It uses a novel ReSidual U-block (RSU) module to extract multi-scale features without degrading resolution, allowing the network to go deeper and attain high resolution without significantly increasing memory and computation cost.
 * used for for salient object detection, image segmentation, and other image2image modeling tasks.
@@ -14,6 +15,7 @@
 <br>
 <figcaption><i>Fig.2 - UNet or RSU Block</i></figcaption>
 </div>
+<br>
 
 * U-Net is a U-shaped encoder-decoder architecture with residual connections between each layers. It captures contextual information and intricate detail.
 * These U-Net blocks in U2Net architecture are called ReSidual U-block or RSU.
@@ -24,6 +26,7 @@
 <br>
 <figcaption><i>Fig.3 - image segmentation with U2-Net example</i></figcaption>
 </div>
+<br>
 
 ![training progress](docs/training_progress.gif)
 <figcaption><i>Fig.4 - image segmentation with U2-Net training progress after each steps</i></figcaption>
