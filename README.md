@@ -1,7 +1,7 @@
 # U2 NET
 
 <div  align="center">
-<img  src="docs/U2NETPR.png"  style="width: 60%">
+<img  src="docs/U2NETPR.png"  style="width: 85%">
 <br>
 <figcaption><i>Fig.1 - U2Net Architecture</i></figcaption>
 </div>
