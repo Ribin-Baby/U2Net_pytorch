@@ -17,7 +17,7 @@
 * U-Net is a U-shaped encoder-decoder architecture with residual connections between each layers. It captures contextual information and intricate detail.
 * These U-Net blocks in U2Net architecture are called ReSidual U-block or RSU.
 
-*  Example: we have trained an image segmentation model on [P3M-10k](!https://paperswithcode.com/dataset/p3m-10k) dataset, and the results are given below.
+*  Example: we have trained an image segmentation model on [P3M-10k](https://paperswithcode.com/dataset/p3m-10k) dataset, and the results are given below.
 <div  align="center">
 <img  src="docs/example_u2net_Segment.png"  style="width: 60%">
 <br>
