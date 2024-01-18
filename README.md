@@ -24,12 +24,8 @@
 <br>
 <figcaption><i>Fig.3 - image segmentation with U2-Net example</i></figcaption>
 </div>
-<<<<<<< HEAD
 
-![training progress](docs/training_progress.gif)
 <div  align="center">
+ ![training progress](docs/training_progress.gif)
  <figcaption><i>Fig.4 - image segmentation with U2-Net training progress after each steps</i></figcaption>
  </div>
-=======
- 
->>>>>>> 89ab5d4d14ba4b748abd864de2ebcbe1d31a07ec
